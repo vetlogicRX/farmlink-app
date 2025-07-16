@@ -2,6 +2,13 @@
   "name": "farmlink-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://vetlogicRX.github.io/farmlink-app",
+...
+Add homepage to package.json for GitHub Pages
+}
+  "name": "farmlink-app",
+  "version": "1.0.0",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

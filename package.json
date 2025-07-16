@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://vetlogicRX.github.io/farmlink-app",
 ...
-Add homepage to package.json for GitHub Pages
 }
   "name": "farmlink-app",
   "version": "1.0.0",
